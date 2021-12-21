@@ -1,0 +1,10 @@
+#canvas1{
+    border-style:ridge;
+
+}
+
+#body1{
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
